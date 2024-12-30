@@ -1,0 +1,39 @@
+{
+    "products": [
+    {
+      "name": "Echelon EX8s Upright Bike with 24\" Monitor",
+      "original_price": "$3,10.00",
+      "sale_price": "$2,20.00",
+      "discount": "-29%",
+      "image": "https://media.istockphoto.com/id/2167374915/photo/strong-woman-in-warm-up-training-running-on-a-treadmill-climber-stairs-machine.webp?a=1&b=1&s=612x612&w=0&k=20&c=6X79ksDcjV08tQlHeScN8nFlkds-3-Dc3L4ing03clg="
+    },
+    {
+      "name": "Spirit XBU55ENT Upright Bike",
+      "original_price": "$3,20.00",
+      "sale_price": "$2,20.00",
+      "discount": "-31%",
+      "image": "https://media.istockphoto.com/id/650364226/photo/fitness-and-gym-equipment.webp?a=1&b=1&s=612x612&w=0&k=20&c=hPMGBLPy4BQf3k1_eg46Vd44Proe9MethW-G5KoYceA="
+    },
+    {
+      "name": "Spirit XE395ENT Elliptical",
+      "original_price": "$3,99.99",
+      "sale_price": "$2,99.99",
+      "discount": "-26%",
+      "image": "https://media.istockphoto.com/id/805085582/photo/spin-together-to-win-together.webp?a=1&b=1&s=612x612&w=0&k=20&c=yQnBkfjcpPxNRryYEz-Ogi3X-KktmKcD2_p-WIu_wjo="
+    },
+    {
+      "name": "SPRI Balance Trainer Sport",
+      "original_price": "$119.95",
+      "sale_price": "$99.95",
+      "discount": "-17%",
+      "image": "https://media.istockphoto.com/id/1124741961/photo/woman-in-fitness-club.jpg?s=612x612&w=0&k=20&c=q3MggEF6VrhNICqa6RRfLWyC3ouPXJBD6i-ytb2zdek="
+    },
+    {
+      "name": "SPRI Balance Trainer Pro",
+      "original_price": "$139.95",
+      "sale_price": "$119.95",
+      "discount":"-15%",
+      "image": "https://plus.unsplash.com/premium_photo-1661402417496-b0dd5fab43b0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGN5Y2xlJTIwY2FyZGlvJTIwZ3ltJTIwZXF1aXBtZW50fGVufDB8fDB8fHww"
+    }
+  ] 
+}
